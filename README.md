@@ -1,5 +1,5 @@
 # This is a project for gauge.ro website. where i designed first 2 sections of website using react and tailwind css.
-
+This website is hosted at: https://admirable-centaur-f3b90e.netlify.app/
 
 # Getting Started with Create React App
 
