@@ -1,3 +1,6 @@
+# This is a project for gauge.ro website. where i designed first 2 sections of website using react and tailwind css.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
